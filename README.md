@@ -8,7 +8,7 @@
   <a href="https://emadqudah.vercel.app"><img src="https://img.shields.io/badge/Website-emadqudah.vercel.app-1f6feb?style=flat&logo=vercel&logoColor=white&labelColor=333"/></a>
   <a href="https://linkedin.com/in/emadalqudah"><img src="https://img.shields.io/badge/LinkedIn-emadalqudah-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=333"/></a>
   <!-- Replace YOUR_EMAIL with your email, then remove this comment -->
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=333"/></a>
+  <a href="mailto:qudahemad@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white&labelColor=333"/></a>
   <img src="https://komarev.com/ghpvc/?username=3madQudah&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
